@@ -1,0 +1,17 @@
+{
+  "Not Started": [],
+  "In Progress": [
+    "Implement code",
+    " Implement automatic tests",
+    " Run acceptance tests",
+    " Run regresion tests"
+  ],
+  "Done": [
+    "Define specifications",
+    "Define acceptance tests"
+  ],
+  "Canceled": [
+    "Refactor code",
+    "Improve performance"
+  ]
+}
